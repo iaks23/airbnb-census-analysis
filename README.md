@@ -18,7 +18,7 @@ Our dataset deals with 1 year of Airbnb listings in the New South Wales region, 
 
 The aim of the assignment is to build data pipelines using the two different input datasets. These datasets will go through all the necessary steps before being ingested into a data warehouse and used in data marts for analytical purposes. Snowflake will be used for processing and analysing the data while Airflow will be used to build the pipelines and GCP to store the datasets.
 
-Read the full project execution report, including steps to setup [here](https://github.com/iaks23/nyc-taxi-analysis/blob/main/handover_report.pdf)
+Read the full project execution report, including steps to setup [here](https://github.com/iaks23/airbnb-census-analysis/blob/main/Handover%20Report.docx)
 
 
 
